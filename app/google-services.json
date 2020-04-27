@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "79105281515",
+    "firebase_url": "https://autisticvisualschedule-5b95a.firebaseio.com",
+    "project_id": "autisticvisualschedule-5b95a",
+    "storage_bucket": "autisticvisualschedule-5b95a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79105281515:android:0067a31a992f3a628f5dae",
+        "android_client_info": {
+          "package_name": "com.example.autisticvisualschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79105281515-a6mg903lr7b7ur5ci5dhccqs2mabse7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYoM_kkA5poxwsvyOUmBDDLJhyt4CUkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79105281515-a6mg903lr7b7ur5ci5dhccqs2mabse7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
